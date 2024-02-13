@@ -1,4 +1,4 @@
-# KratosFramework
+# KratosFramework (version 0.1)
 Kratos Framework is a Advanced Framework for Multitasking Framework.
 1) Nmap Automated Scanning.
 2) Finding Exploit.
