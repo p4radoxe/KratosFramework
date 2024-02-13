@@ -10,4 +10,6 @@ Kratos Framework is a Advanced Framework for Multitasking Framework.
 1) git clone https://github.com/p4radoxe/KratosFramework
 2) cd KratosFramework
 3) chmod +x bin.sh
-4) sudo ./kratosframework.py
+4) sudo python3 kratosframework.py
+
+![photo_2024-02-13_16-13-58](https://github.com/p4radoxe/KratosFramework/assets/102639409/97eac3cd-1852-400e-b999-10bed67689b2)
